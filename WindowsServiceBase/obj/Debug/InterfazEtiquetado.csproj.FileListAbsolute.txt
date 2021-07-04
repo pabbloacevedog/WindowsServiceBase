@@ -1,0 +1,12 @@
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\bin\Debug\InterfazEtiquetado.exe.config
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\bin\Debug\InterfazEtiquetado.exe
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\bin\Debug\InterfazEtiquetado.pdb
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\bin\Debug\mbusmaster.net.dll
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.csprojAssemblyReference.cache
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.ProjectInstallerEtiquetadoError.resources
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.ServicioEtiquetado.resources
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.csproj.GenerateResource.cache
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.csproj.CoreCompileInputs.cache
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.csproj.CopyComplete
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.exe
+C:\GIT\UNIFRUTTI\02-07-2021\servicio-etiquetado-cajas\InterfazEtiquetado\InterfazEtiquetado\obj\Debug\InterfazEtiquetado.pdb

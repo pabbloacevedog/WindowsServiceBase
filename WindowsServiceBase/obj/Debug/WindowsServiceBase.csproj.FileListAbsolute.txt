@@ -1,0 +1,5 @@
+C:\github\02-07-2021\WindosServiceBase\WindowsServiceBase\obj\Debug\WindowsServiceBase.csprojAssemblyReference.cache
+C:\github\02-07-2021\WindosServiceBase\WindowsServiceBase\obj\Debug\WindowsServiceBase.ProjectInstallerEtiquetadoError.resources
+C:\github\02-07-2021\WindosServiceBase\WindowsServiceBase\obj\Debug\WindowsServiceBase.ServicioBase.resources
+C:\github\02-07-2021\WindosServiceBase\WindowsServiceBase\obj\Debug\WindowsServiceBase.csproj.GenerateResource.cache
+C:\github\02-07-2021\WindosServiceBase\WindowsServiceBase\obj\Debug\WindowsServiceBase.csproj.CoreCompileInputs.cache
